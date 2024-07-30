@@ -11,7 +11,7 @@ def rename_files(directory):
             print(f'Renamed: {filename} -> {new_name}')
 
 if __name__ == "__main__":
-    directory = r'C:\Users\nsalinas\Documents\numeros'  # Reemplaza con la ruta al directorio con tus archivos
+    directory = r'ruta/al/directorio'  # Reemplaza con la ruta al directorio con tus archivos
     rename_files(directory)
 
 
